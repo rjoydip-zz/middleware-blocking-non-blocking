@@ -2,9 +2,9 @@
   "name": "middleware-blocking-non-blocking",
   "version": "1.0.0",
   "description": "How blocking and non-blocking works inside middleware.",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
-    "start": "nodemon src/index.js localhost 8080"
+    "start": "nodemon index.js"
   },
   "dependencies": {
     "express": "4.16.3",
