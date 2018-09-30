@@ -1,6 +1,6 @@
 # middleware-blocking-non-blocking
 
-Example how blocking and non-blocking works inside middleware.
+How blocking and non-blocking works inside middleware.
 
 ## How it works ? 
 

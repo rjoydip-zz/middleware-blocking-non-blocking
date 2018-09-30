@@ -1,7 +1,7 @@
 {
-  "name": "koa-express-middleware-blocking-non-blocking",
+  "name": "middleware-blocking-non-blocking",
   "version": "1.0.0",
-  "description": "Example how blocking and non-blocking works inside middleware",
+  "description": "How blocking and non-blocking works inside middleware.",
   "main": "src/index.js",
   "scripts": {
     "start": "nodemon src/index.js localhost 8080"
